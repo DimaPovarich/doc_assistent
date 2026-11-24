@@ -43,3 +43,10 @@ doc_assistant/
 ```powershell
 python -m venv venv
 .\venv\Scripts\Activate.ps1
+```
+2. Установите зависимости
+В активированном виртуальном окружении установите нужные библиотеки:
+```powershell
+pip install streamlit python-docx sentence-transformers scikit-learn
+```
+(Если в корне проекта есть requirements.txt, можно выполнить pip install -r requirements.txt.)

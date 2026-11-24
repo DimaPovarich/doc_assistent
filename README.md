@@ -33,13 +33,5 @@ doc_assistant/
 │   └── pipeline.py         # Сквозной пайплайн с кэшированием индекса
 ├── requirements.txt        # Зависимости проекта
 └── README.md
-'''
-## 🚀 Как запустить проект от начала и до конца
-
-### 1. Подготовьте окружение
-Убедитесь, что установлен **Python 3.10+** (рекомендуется 3.10–3.12). Откройте терминал в корневой папке проекта `doc_assistant` и создайте виртуальное окружение:
-
-**Windows (PowerShell):**
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
+```
+ffhteherfsgreg
